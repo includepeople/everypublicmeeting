@@ -1,6 +1,6 @@
 
-Every Public Meeting
+# Every Public Meeting
 
-[https://www.everypublicmeeting.com](https://www.everypublicmeeting.com)
+[Every Public Meeting](https://www.everypublicmeeting.com) is a free, crowd-sourced directory of every public meeting from every state, county, and local public body.
 
-This repository is here for ideas and discussion in the [issue queue](https://github.com/includepeople/everypublicmeeting/issues).
+Please [join a discussion](https://github.com/includepeople/everypublicmeeting/issues)!
